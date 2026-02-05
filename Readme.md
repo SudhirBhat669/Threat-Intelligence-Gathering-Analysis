@@ -1,4 +1,4 @@
-
+<img width="916" height="895" alt="Image" src="https://github.com/user-attachments/assets/4eeb226d-3f92-4f06-b202-62fb1290462c" />
 
 ## Threat Intelligence (CTI) Gathering and Analysis
 
